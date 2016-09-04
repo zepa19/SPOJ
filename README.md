@@ -1,2 +1,2 @@
-# SPOJ
-Solved SPOJ problems. http://www.spoj.com/
+# [SPOJ](http://www.spoj.com/)
+Solved SPOJ problems. 
