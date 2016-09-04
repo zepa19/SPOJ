@@ -6,10 +6,10 @@ ABC Pvt. Ltd., needs to recruit some candidates and they want the test to be som
 
 The question given by them is as follows:
 
->> The following are the output provided for the inputs given to one of our newly bought machines. You need to find the output that will be generated for the given inputs.   
->> Some sample input and output are:  
+The following are the output provided for the inputs given to one of our newly bought machines. You need to find the output that will be generated for the given inputs.   
+Some sample input and output are:  
 
->> **4 -> 1, 23 -> 29, 7 -> 7  16 -> 1**  
+> 4 -> 1, 23 -> 29, 7 -> 7  16 -> 1  
 
 Your task is to find the machine's output for some inputs
 
