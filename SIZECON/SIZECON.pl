@@ -1,13 +1,12 @@
 #!/usr/bin/perl
 
-$t = <STDIN>;
-$n = 0;
+$t = <>;
+
 while($t--){
 
-	$k = <STDIN>;
-	if($k>0){
-		$n += $k;
-	}
+	$k=<>;
+
+	$n += $k if $k>0;
 
 }
 
