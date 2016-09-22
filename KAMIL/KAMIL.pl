@@ -1,3 +1,5 @@
 #!/usr/bin/perl
 
-print 2**(s/F|L|T|D//g)."\n"while<>
+# CORE::say 2**s/[FLTD]//g for<>
+
+print 2**s/[FLTD]//g.$/for<>
